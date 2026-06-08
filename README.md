@@ -16,8 +16,8 @@ His low-level understanding and built-from-scratch mindset are just really cool 
 
 ![Tried a Bit](https://skillicons.dev/icons?i=c,mysql,python,kotlin,swift,firebase,linux&theme=dark)
 
-## 💻 Featured Project
+## 💻 Featured Projects
 
 - **[Zalpha Decoder](https://github.com/hyunseop827/zalpha-decorder)**: Personal iOS app that explains slang and expressions using Gemini.
 
-- **[Log Scope](https://github.com/hyunseop827/log-scope)**: Personal logger based with C, mainly targeting to Spring Boot and Nginx.
+- **[Log Scope](https://github.com/hyunseop827/log-scope)**: A small C-based CLI tool for inspecting Spring Boot errors and Nginx access logs after deployment.
