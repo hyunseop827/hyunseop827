@@ -18,4 +18,6 @@ His low-level understanding and built-from-scratch mindset are just really cool 
 
 ## 💻 Featured Project
 
-- [Zalpha Decoder](https://github.com/hyunseop827/zalpha-decorder): Personal iOS app that explains slang and expressions using Gemini.
+- **[Zalpha Decoder](https://github.com/hyunseop827/zalpha-decorder)**: Personal iOS app that explains slang and expressions using Gemini.
+
+- **[Log Scope](https://github.com/hyunseop827/log-scope)**: Personal logger based with C, mainly targeting to Spring Boot and Nginx.
