@@ -2,6 +2,7 @@
 
 I'm a CS student at Hansung University.  
 I mostly build backend stuff with Java, but lately I've been getting more into deep learning.
+Also nowdays, I am just trying to build what I need instead of searching it. I like to use low-cost program. so I am trying to make things simple.  
 
 I'm also a huge fan of Terry Davis.  
 His low-level understanding and built-from-scratch mindset are just really cool to me.
