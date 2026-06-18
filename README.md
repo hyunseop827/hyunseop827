@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Hyunseop Kim
 
 I'm a CS student at Hansung University.  
-I usually build backend stuff with Java, but lately I've been getting more into deep learning.
+I usually build backend stuff with Java, and lately I've been building small macOS, iOS, and AI-powered tools.
 
-These days, I like building small tools I actually need instead of looking for an app that almost fits my needs.  
-I prefer simple, lightweight, and low-overhead programs that do one thing clearly.
+I like making simple tools I actually need instead of looking for an app that almost fits.  
+I prefer lightweight programs that do one thing clearly and not over-use resources.
 
-I'm also really into Terry Davis.  
-His low-level understanding and built-from-scratch mindset are just really cool to me.
+I'm also a fan of Terry Davis, I think he is goated.
 
 ## 📚 Tech Stack
 
@@ -17,14 +16,14 @@ His low-level understanding and built-from-scratch mindset are just really cool 
 
 ### Tried a Bit
 
-![Tried a Bit](https://skillicons.dev/icons?i=c,linux,mysql,python,kotlin,swift,firebase,electron&theme=dark)
+![Tried a Bit](https://skillicons.dev/icons?i=c,linux,mysql,python,kotlin,swift,ts,electron,firebase&theme=dark)
 
 ## 💻 Featured Projects
 
-- **[Zalpha Decoder](https://github.com/hyunseop827/zalpha-decorder)**: Personal iOS app that explains slang and expressions using Gemini.
+- **[Menu Pulse](https://github.com/hyunseop827/menu-pulse)**: Tiny native macOS menu bar app that shows CPU, RAM, temperature, and disk usage with low overhead.
+
+- **[Hangeul Filename Fixer](https://github.com/hyunseop827/hangeul-filename-fixer)**: Small macOS app that creates safer copies of Korean filenames for better Windows compatibility.
 
 - **[Log Scope](https://github.com/hyunseop827/log-scope)**: Small C-based CLI tool for inspecting Spring Boot errors and Nginx access logs after deployment.
 
-- **[Hangeul Filename Fixer](https://github.com/hyunseop827/hangeul-filename-fixer)**: Small macOS app that normalizes Korean filenames for better Windows compatibility.
-
-- **[Menu Pulse](https://github.com/hyunseop827/menu-pulse)**: Tiny native macOS menu bar app that shows CPU, RAM, temperature, and disk usage with low overhead.
+- **[Zalpha Decoder](https://github.com/hyunseop827/zalpha-decoder)**: iOS app that explains slang and expressions using Gemini.
