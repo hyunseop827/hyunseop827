@@ -1,29 +1,27 @@
 # 👋 Hi, I'm Hyunseop Kim
 
-I'm a CS student at Hansung University.  
-I usually build backend stuff with Java, and lately I've been building small macOS, iOS, and AI-powered tools.
+I'm a CS student at Hansung University. In team projects, I build backend services with Java and Spring and set up their CI/CD and AWS deployment. I work with AI coding agents every day, and on my own I make lightweight, practical tools that do exactly what I need.
 
-I like making simple tools I actually need instead of looking for an app that almost fits.  
-I prefer lightweight programs that do one thing clearly and not over-use resources.
-
-I'm also a fan of Terry Davis, I think he is goated.
-
-## 📚 Tech Stack
+## Tech Stack
 
 ### Usually Using
 
-![Usually Using](https://skillicons.dev/icons?i=java,spring,aws,git,github&theme=dark)
+![Usually Using](https://skillicons.dev/icons?i=java,spring,swift,aws,git,github&theme=dark)
 
 ### Tried a Bit
 
-![Tried a Bit](https://skillicons.dev/icons?i=c,linux,mysql,python,kotlin,swift,ts,electron,firebase&theme=dark)
+![Tried a Bit](https://skillicons.dev/icons?i=c,linux,mysql,python,ts,electron,firebase&theme=dark)
 
-## 💻 Featured Projects
+## Personal Projects
 
-- **[Menu Pulse](https://github.com/hyunseop827/menu-pulse)**: Tiny native macOS menu bar app that shows CPU, RAM, temperature, and disk usage with low overhead.
+- **[Menu Pulse](https://github.com/hyunseop827/menu-pulse)**: Tiny Objective-C menu bar app for Apple Silicon Macs that shows CPU and RAM usage, with optional temperature and disk readouts.
 
-- **[Hangeul Filename Fixer](https://github.com/hyunseop827/hangeul-filename-fixer)**: Small macOS app that creates safer copies of Korean filenames for better Windows compatibility.
+- **[Finder Presets](https://github.com/hyunseop827/finder-presets)**: Native macOS app that saves Finder folder views as presets and applies them to any folder, its subfolders, or Finder's default view, with undo.
 
-- **[Log Scope](https://github.com/hyunseop827/log-scope)**: Small C-based CLI tool for inspecting Spring Boot errors and Nginx access logs after deployment.
+- **[Zalpha Decoder](https://github.com/hyunseop827/zalpha-decoder)**: iOS app that uses Gemini to translate text into a formal, plain, or Gen Z/Alpha style and explain the slang and expressions in it.
 
-- **[Zalpha Decoder](https://github.com/hyunseop827/zalpha-decoder)**: iOS app that explains slang and expressions using Gemini.
+## Team Projects
+
+- **[TodayBread](https://github.com/hsu-today-bread/todaybread-backend)**: Capstone app for ordering bread from nearby bakeries. I built the Spring Boot backend, including JWT auth and Toss Payments, and deployed it on AWS EC2.
+
+- **[ERSync](https://github.com/Hansung-ERsync/ersync-backend)**: App that lets paramedics send patient info to nearby emergency rooms and choose a destination from their responses. I co-built the Spring Boot backend with a teammate and set up its CI/CD and AWS deployment.
