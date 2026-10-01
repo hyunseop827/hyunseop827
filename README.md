@@ -22,6 +22,6 @@ I'm a CS student at Hansung University. In team projects, I build backend servic
 
 ## Team Projects
 
-- **[TodayBread](https://github.com/hsu-today-bread/todaybread-backend)**: Capstone app for ordering bread from nearby bakeries. I built the Spring Boot backend, including JWT auth and Toss Payments, and deployed it on AWS EC2.
+- **[TodayBread](https://github.com/hsu-today-bread/todaybread-backend)**: Capstone app for ordering bread from nearby bakeries. I led the Spring Boot backend, including JWT auth and Toss Payments, and deployed it on AWS EC2.
 
-- **[ERSync](https://github.com/Hansung-ERsync/ersync-backend)**: App that lets paramedics send patient info to nearby emergency rooms and choose a destination from their responses. I co-built the Spring Boot backend with a teammate and set up its CI/CD and AWS deployment.
+- **[ERSync](https://github.com/Hansung-ERsync/ersync-backend)**: App that lets paramedics send patient info to nearby emergency rooms and choose a destination from their responses. I proposed the idea, wrote the specs and the AI agents' working rules, and set up its CI/CD and AWS deployment.
