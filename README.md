@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Hyunseop Kim
 
+🔗 **Portfolio:** [hyunseop827.github.io](https://hyunseop827.github.io)
+
 I'm a CS student at Hansung University. In team projects, I build backend services with Java and Spring and set up their CI/CD and AWS deployment. I work with AI coding agents every day, and on my own I make lightweight, practical tools that do exactly what I need.
 
 ## Tech Stack
